@@ -1,0 +1,945 @@
+# depslib dependency file v1.0
+1524655227 source:c:\users\prolgan\desktop\projekts\minesweeper\main.cpp
+	<iostream>
+	"Game.h"
+
+1524654903 c:\users\prolgan\desktop\projekts\minesweeper\minesweeper.h
+	"NewGame.cpp"
+
+1524655894 source:c:\users\prolgan\desktop\projekts\minesweeper\newgame.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1524654841 c:\users\prolgan\desktop\projekts\minesweeper\newgame.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1524656564 c:\users\prolgan\desktop\projekts\minesweeper\game.h
+
+1524657481 source:c:\users\prolgan\desktop\projekts\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Game.h"
+
+1525249949 source:h:\c++\minesweeper\projekts 0.1\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+
+1524820393 h:\c++\minesweeper\projekts 0.1\minesweeper\game.h
+
+1525252261 source:h:\c++\minesweeper\projekts 0.1\minesweeper\main.cpp
+	<iostream>
+	"Game.h"
+	"Gameplay.cpp"
+
+1524817376 h:\c++\minesweeper\projekts 0.1\minesweeper\easy.h
+
+1525252663 h:\c++\minesweeper\projekts 0.1\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"Game.h"
+
+1525642225 source:c:\users\prolgan\desktop\projekts 0.2-20180502t192340z-001\projekts 0.2\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1525639019 c:\users\prolgan\desktop\projekts 0.2-20180502t192340z-001\projekts 0.2\minesweeper\game.h
+
+1525642707 source:c:\users\prolgan\desktop\projekts 0.2-20180502t192340z-001\projekts 0.2\minesweeper\main.cpp
+	<iostream>
+	"Game.h"
+	"Gameplay.cpp"
+
+1525642787 c:\users\prolgan\desktop\projekts 0.2-20180502t192340z-001\projekts 0.2\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+
+1525639165 c:\users\prolgan\desktop\projekts 0.2-20180502t192340z-001\projekts 0.2\minesweeper\graphic.h
+
+1525642004 source:c:\users\prolgan\desktop\projekts 0.2-20180502t192340z-001\projekts 0.2\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1525705920 source:c:\users\prolgan\desktop\projekts 0.3\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1525639019 c:\users\prolgan\desktop\projekts 0.3\minesweeper\game.h
+
+1525705901 c:\users\prolgan\desktop\projekts 0.3\minesweeper\graphic.h
+
+1525703480 source:c:\users\prolgan\desktop\projekts 0.3\minesweeper\main.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	"Gameplay.cpp"
+
+1525705699 c:\users\prolgan\desktop\projekts 0.3\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+
+1525706109 source:c:\users\prolgan\desktop\projekts 0.3\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1525858071 source:h:\c++\minesweeper\projekts 0.3\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1525853430 h:\c++\minesweeper\projekts 0.3\minesweeper\game.h
+
+1525671686 h:\c++\minesweeper\projekts 0.3\minesweeper\graphic.h
+
+1525858102 source:h:\c++\minesweeper\projekts 0.3\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1525857804 source:h:\c++\minesweeper\projekts 0.3\minesweeper\main.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+
+1525855692 h:\c++\minesweeper\projekts 0.3\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+
+1526026000 source:h:\c++\minesweeper\projekts 0.4\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1525853430 h:\c++\minesweeper\projekts 0.4\minesweeper\game.h
+
+1526028720 h:\c++\minesweeper\projekts 0.4\minesweeper\graphic.h
+
+1526028752 source:h:\c++\minesweeper\projekts 0.4\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526028202 source:h:\c++\minesweeper\projekts 0.4\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+
+1526030463 h:\c++\minesweeper\projekts 0.4\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+
+1526029414 h:\c++\minesweeper\projekts 0.4\minesweeper\menu.h
+	"Menu.cpp"
+
+1526030579 h:\c++\minesweeper\projekts 0.4\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+
+1526030642 h:\c++\minesweeper\projekts 0.4\minesweeper\setting.h
+	"Setting.cpp"
+
+1526030743 h:\c++\minesweeper\projekts 0.4\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	"Setting.h"
+
+1525995276 source:c:\users\prolgan\desktop\projekts 0.5\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1525995276 c:\users\prolgan\desktop\projekts 0.5\minesweeper\game.h
+
+1525995276 c:\users\prolgan\desktop\projekts 0.5\minesweeper\graphic.h
+
+1525995276 source:c:\users\prolgan\desktop\projekts 0.5\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526066939 source:c:\users\prolgan\desktop\projekts 0.5\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+
+1526063193 c:\users\prolgan\desktop\projekts 0.5\minesweeper\menu.h
+
+1526063172 c:\users\prolgan\desktop\projekts 0.5\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+
+1526127964 c:\users\prolgan\desktop\projekts 0.5\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+
+1526128841 c:\users\prolgan\desktop\projekts 0.5\minesweeper\setting.h
+	"Setting.cpp"
+
+1526136424 c:\users\prolgan\desktop\projekts 0.5\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	"Setting.h"
+
+1526128841 source:c:\users\prolgan\desktop\projekts 0.5\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+
+1526586988 source:h:\c++\minesweeper\projekts 0.6\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526586992 h:\c++\minesweeper\projekts 0.6\minesweeper\game.h
+
+1526586990 h:\c++\minesweeper\projekts 0.6\minesweeper\graphic.h
+
+1526586992 source:h:\c++\minesweeper\projekts 0.6\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526586992 source:h:\c++\minesweeper\projekts 0.6\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+
+1526635180 h:\c++\minesweeper\projekts 0.6\minesweeper\menu.h
+	"Setting.h"
+
+1526635814 source:h:\c++\minesweeper\projekts 0.6\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+	<cstdlib>
+
+1526635782 h:\c++\minesweeper\projekts 0.6\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+	"Menu.h"
+
+1526634292 h:\c++\minesweeper\projekts 0.6\minesweeper\setting.h
+
+1526633933 h:\c++\minesweeper\projekts 0.6\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1526634433 source:h:\c++\minesweeper\projekts 0.6\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1526826656 source:c:\users\prolgan\desktop\projekts 0.7\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526600124 c:\users\prolgan\desktop\projekts 0.7\minesweeper\game.h
+
+1526600124 c:\users\prolgan\desktop\projekts 0.7\minesweeper\graphic.h
+
+1526826709 source:c:\users\prolgan\desktop\projekts 0.7\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526600124 source:c:\users\prolgan\desktop\projekts 0.7\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+
+1526753211 c:\users\prolgan\desktop\projekts 0.7\minesweeper\menu.h
+	"Setting.h"
+
+1526600128 c:\users\prolgan\desktop\projekts 0.7\minesweeper\setting.h
+
+1526828078 source:c:\users\prolgan\desktop\projekts 0.7\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+	<cstdlib>
+
+1526827966 c:\users\prolgan\desktop\projekts 0.7\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+	"Menu.h"
+
+1526600130 source:c:\users\prolgan\desktop\projekts 0.7\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1526974985 source:h:\c++\minesweeper\projekts 0.8\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526975195 h:\c++\minesweeper\projekts 0.8\minesweeper\game.h
+	<iostream>
+
+1526972499 h:\c++\minesweeper\projekts 0.8\minesweeper\graphic.h
+
+1526975143 source:h:\c++\minesweeper\projekts 0.8\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526901620 source:h:\c++\minesweeper\projekts 0.8\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+
+1526972167 h:\c++\minesweeper\projekts 0.8\minesweeper\menu.h
+	"Setting.h"
+
+1526901624 h:\c++\minesweeper\projekts 0.8\minesweeper\setting.h
+
+1526977723 source:h:\c++\minesweeper\projekts 0.8\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+	<cstdlib>
+
+1526976218 h:\c++\minesweeper\projekts 0.8\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+	"Menu.h"
+
+1526901624 source:h:\c++\minesweeper\projekts 0.8\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1527579735 source:h:\c++\minesweeper\projekts 0.9\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1527579420 h:\c++\minesweeper\projekts 0.9\minesweeper\game.h
+	<iostream>
+
+1527577497 h:\c++\minesweeper\projekts 0.9\minesweeper\graphic.h
+	"Game.h"
+
+1527579735 source:h:\c++\minesweeper\projekts 0.9\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526901620 source:h:\c++\minesweeper\projekts 0.9\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+
+1527582248 h:\c++\minesweeper\projekts 0.9\minesweeper\menu.h
+	"Setting.h"
+	"Game.h"
+
+1526901624 h:\c++\minesweeper\projekts 0.9\minesweeper\setting.h
+
+1527582304 source:h:\c++\minesweeper\projekts 0.9\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+	<cstdlib>
+	"Save.h"
+
+1527582228 h:\c++\minesweeper\projekts 0.9\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+	"Menu.h"
+
+1526901624 source:h:\c++\minesweeper\projekts 0.9\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1527582590 h:\c++\minesweeper\projekts 0.9\minesweeper\save.h
+	"Game.h"
+
+1527583009 source:h:\c++\minesweeper\projekts 0.9\minesweeper\save.cpp
+	<iostream>
+	"Game.h"
+	<fstream>
+	<windows.h>
+	"Save.h"
+	"Graphic.h"
+
+1527579735 source:h:\c++\minesweeper\projekts 0.9a\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1527579420 h:\c++\minesweeper\projekts 0.9a\minesweeper\game.h
+	<iostream>
+
+1527577497 h:\c++\minesweeper\projekts 0.9a\minesweeper\graphic.h
+	"Game.h"
+
+1527579735 source:h:\c++\minesweeper\projekts 0.9a\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1526901620 source:h:\c++\minesweeper\projekts 0.9a\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+
+1527582248 h:\c++\minesweeper\projekts 0.9a\minesweeper\menu.h
+	"Setting.h"
+	"Game.h"
+
+1526901624 h:\c++\minesweeper\projekts 0.9a\minesweeper\setting.h
+
+1527670718 source:h:\c++\minesweeper\projekts 0.9a\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+	<cstdlib>
+	"Save.h"
+
+1527667496 h:\c++\minesweeper\projekts 0.9a\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+	"Menu.h"
+
+1527667059 h:\c++\minesweeper\projekts 0.9a\minesweeper\save.h
+	"Game.h"
+
+1527669726 source:h:\c++\minesweeper\projekts 0.9a\minesweeper\save.cpp
+	<iostream>
+	"Game.h"
+	<fstream>
+	<windows.h>
+	"Save.h"
+	"Graphic.h"
+
+1526901624 source:h:\c++\minesweeper\projekts 0.9a\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1528828610 source:c:\users\prolgan\desktop\projekts 0.9b\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+	"Save.h"
+
+1528828178 c:\users\prolgan\desktop\projekts 0.9b\minesweeper\game.h
+	<iostream>
+
+1527636546 c:\users\prolgan\desktop\projekts 0.9b\minesweeper\graphic.h
+	"Game.h"
+
+1528828146 source:c:\users\prolgan\desktop\projekts 0.9b\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1528813174 source:c:\users\prolgan\desktop\projekts 0.9b\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+	"Save.h"
+
+1527636544 c:\users\prolgan\desktop\projekts 0.9b\minesweeper\menu.h
+	"Setting.h"
+	"Game.h"
+
+1527636548 c:\users\prolgan\desktop\projekts 0.9b\minesweeper\setting.h
+
+1528828221 source:c:\users\prolgan\desktop\projekts 0.9b\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+	<cstdlib>
+	"Save.h"
+
+1528827482 c:\users\prolgan\desktop\projekts 0.9b\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+	"Menu.h"
+
+1528813150 c:\users\prolgan\desktop\projekts 0.9b\minesweeper\save.h
+	"Game.h"
+
+1527636548 source:c:\users\prolgan\desktop\projekts 0.9b\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1528813226 source:c:\users\prolgan\desktop\projekts 0.9b\minesweeper\save.cpp
+	<iostream>
+	"Game.h"
+	<fstream>
+	<windows.h>
+	"Save.h"
+	"Graphic.h"
+	<stdio.h>
+
+1528921705 source:c:\users\prolgan\desktop\projekts 0.9d\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1528981956 c:\users\prolgan\desktop\projekts 0.9d\minesweeper\game.h
+	<iostream>
+
+1528841124 c:\users\prolgan\desktop\projekts 0.9d\minesweeper\graphic.h
+	"Game.h"
+
+1528841124 source:c:\users\prolgan\desktop\projekts 0.9d\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+	"Save.h"
+
+1528841124 c:\users\prolgan\desktop\projekts 0.9d\minesweeper\menu.h
+	"Setting.h"
+	"Game.h"
+
+1528841126 c:\users\prolgan\desktop\projekts 0.9d\minesweeper\setting.h
+
+1528841126 c:\users\prolgan\desktop\projekts 0.9d\minesweeper\save.h
+	"Game.h"
+
+1528980711 source:c:\users\prolgan\desktop\projekts 0.9d\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+	<cstdlib>
+	"Save.h"
+
+1528977041 c:\users\prolgan\desktop\projekts 0.9d\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+	"Menu.h"
+
+1528981792 source:c:\users\prolgan\desktop\projekts 0.9d\minesweeper\save.cpp
+	<iostream>
+	"Game.h"
+	<fstream>
+	<windows.h>
+	"Save.h"
+	"Graphic.h"
+	<stdio.h>
+	<conio.h>
+
+1528841126 source:c:\users\prolgan\desktop\projekts 0.9d\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1528980394 source:c:\users\prolgan\desktop\projekts 0.9d\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+	"Save.h"
+
+1528946408 source:c:\users\prolgan\desktop\projekts 1.0\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+	"Save.h"
+
+1528946410 c:\users\prolgan\desktop\projekts 1.0\minesweeper\game.h
+	<iostream>
+
+1529170519 c:\users\prolgan\desktop\projekts 1.0\minesweeper\graphic.h
+	"Game.h"
+
+1529161200 c:\users\prolgan\desktop\projekts 1.0\minesweeper\save.h
+	<iostream>
+	"Game.h"
+
+1529170925 source:c:\users\prolgan\desktop\projekts 1.0\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1528946410 source:c:\users\prolgan\desktop\projekts 1.0\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+	"Save.h"
+
+1528946410 c:\users\prolgan\desktop\projekts 1.0\minesweeper\menu.h
+	"Setting.h"
+	"Game.h"
+
+1528946416 c:\users\prolgan\desktop\projekts 1.0\minesweeper\setting.h
+
+1529170989 source:c:\users\prolgan\desktop\projekts 1.0\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+	<cstdlib>
+	"Save.h"
+
+1529170552 c:\users\prolgan\desktop\projekts 1.0\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+	"Menu.h"
+
+1529176196 source:c:\users\prolgan\desktop\projekts 1.0\minesweeper\save.cpp
+	<iostream>
+	"Game.h"
+	<fstream>
+	<windows.h>
+	"Save.h"
+	"Graphic.h"
+	<stdio.h>
+	<conio.h>
+
+1528946416 source:c:\users\prolgan\desktop\projekts 1.0\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1529142880 source:c:\users\prolgan\desktop\projekts relise\minesweeper\game.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+	"Save.h"
+
+1529142880 c:\users\prolgan\desktop\projekts relise\minesweeper\game.h
+	<iostream>
+
+1529142880 c:\users\prolgan\desktop\projekts relise\minesweeper\graphic.h
+	"Game.h"
+
+1529142884 c:\users\prolgan\desktop\projekts relise\minesweeper\save.h
+	<iostream>
+	"Game.h"
+
+1529142880 source:c:\users\prolgan\desktop\projekts relise\minesweeper\graphic.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"Game.h"
+	"Graphic.h"
+
+1529142880 source:c:\users\prolgan\desktop\projekts relise\minesweeper\main.cpp
+	<iostream>
+	"Menu.h"
+	<windows.h>
+	"Save.h"
+
+1529142880 c:\users\prolgan\desktop\projekts relise\minesweeper\menu.h
+	"Setting.h"
+	"Game.h"
+
+1529142884 c:\users\prolgan\desktop\projekts relise\minesweeper\setting.h
+
+1529142880 source:c:\users\prolgan\desktop\projekts relise\minesweeper\menu.cpp
+	<iostream>
+	"Game.h"
+	"Graphic.h"
+	<stdlib.h>
+	<ctime>
+	"Gameplay.cpp"
+	"Menu.h"
+	"Setting.h"
+	<fstream>
+	<cstdlib>
+	"Save.h"
+
+1529142880 c:\users\prolgan\desktop\projekts relise\minesweeper\gameplay.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Game.h"
+	"Graphic.h"
+	"Setting.h"
+	"Menu.h"
+
+1529142884 source:c:\users\prolgan\desktop\projekts relise\minesweeper\setting.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<conio.h>
+	"Setting.h"
+
+1529142884 source:c:\users\prolgan\desktop\projekts relise\minesweeper\save.cpp
+	<iostream>
+	"Game.h"
+	<fstream>
+	<windows.h>
+	"Save.h"
+	"Graphic.h"
+	<stdio.h>
+	<conio.h>
+
